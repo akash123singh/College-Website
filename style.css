@@ -1,0 +1,120 @@
+.sc{
+    list-style-type: none;
+}
+.sc li{
+    font-size: 30px;
+    display: inline-block;
+    color: aqua;
+    padding: 10px 15px;
+}
+.sc li a{
+    color: rgb(14, 13, 11);
+}
+.pol{
+    background-color: lightseagreen;
+    clip-path: polygon(0 0, 100% 0%, 86% 100%, 0 100%);
+}
+.h-200{
+    height: 200px;
+}
+.logo{
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+.grbw{
+    background-image: linear-gradient(aqua,white);
+    border-radius: 10px;
+}
+.s{
+    list-style-type: none;
+}
+.s li{
+    font-size: 18px;
+    display: inline-block;
+    color: rgb(6, 12, 12);
+    padding: 10px 15px;
+    font-weight: bold;
+}
+.s li a{
+    color: rgb(14, 13, 11);
+}
+.a1{
+    font-weight: bold;   
+}
+.txt{
+    font-size: 20px;
+    font-weight: bold;
+}
+.bgc{
+    background-color: rgb(161, 150, 135);
+}
+.brd{
+    border: 5px groove lightseagreen;
+    text-align: center;
+}
+.bgc1{
+    background-color: rgb(238, 193, 131);
+}
+body{
+    background-color: rgb(238, 193, 131);   
+}
+.ln{
+    text-align: center;
+    background-image: linear-gradient(lightseagreen,lightskyblue);
+    clip-path: polygon(83% 0, 100% 50%, 83% 99%, 0 100%, 6% 54%, 0 0);
+}
+.grbw1{
+    background-image: linear-gradient(aqua,white);
+
+}
+.grbw2{
+    background-image: linear-gradient(aqua,rgb(51, 34, 34));
+
+}
+.ln1{
+
+    background-image: linear-gradient(lightseagreen,lightskyblue);
+
+}
+.shad{
+    box-shadow: 5px 5px 10px darkcyan;
+    text-align: center;
+    border: 1px 0px 2px solid royalblue;
+}
+.mg{
+    border: 2px solid darkcyan;
+    box-shadow: 2px 2px 5px royalblue;
+    border-radius: 5px 5px 10px 5px ;
+    -webkit-border-radius: 5px 5px 10px 5px ;
+    -moz-border-radius: 5px 5px 10px 5px ;
+    -ms-border-radius: 5px 5px 10px 5px ;
+    -o-border-radius: 5px 5px 10px 5px ;
+}
+.br{
+    border: 2px solid blanchedalmond;
+    box-shadow: 5px solid darkturquoise;
+}
+.h-300{
+    height: 300px;
+}
+.txl{
+    text-align: center;
+    font-size: 50px;
+
+}
+.gal{
+    border: 2px groove springgreen;
+    border-radius: 12px 12px 18px;
+    box-shadow: 10px 15px 20px slateblue;
+}
+.font{
+    color: black;
+    font-family: georgia;
+}
+.grbw4{
+    background-image: linear-gradient(aqua,rgb(51, 34, 34));
+
+} 
